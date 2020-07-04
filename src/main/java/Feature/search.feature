@@ -1,7 +1,7 @@
 Feature: Title of your feature
   I want to use this template for my feature file
 
-  Background: Login Details simple 
+  Background: Login Details simple simple12345678xvdf
     Given Precondition
     
     
