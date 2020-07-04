@@ -1,4 +1,4 @@
-Feature: Title of your featureasdasd
+Feature: Title of your feature
   I want to use this template for my feature file
 
   Background: Login Details simple asfsdf
