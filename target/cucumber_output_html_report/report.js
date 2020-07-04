@@ -7,12 +7,12 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 764200,
+  "duration": 1572100,
   "status": "passed"
 });
 formatter.background({
   "line": 4,
-  "name": "Login Details simple asfsdf",
+  "name": "Login Details simple asfsdfzdffhsfhsfgfx",
   "description": "",
   "type": "background",
   "keyword": "Background"
@@ -26,7 +26,7 @@ formatter.match({
   "location": "AppStepdefs.precondition()"
 });
 formatter.result({
-  "duration": 740964200,
+  "duration": 1157772700,
   "status": "passed"
 });
 formatter.scenario({
@@ -76,30 +76,30 @@ formatter.match({
   "location": "AppStepdefs.i_am_login_page()"
 });
 formatter.result({
-  "duration": 367300,
+  "duration": 74000,
   "status": "passed"
 });
 formatter.match({
   "location": "AppStepdefs.enter_username_and_password()"
 });
 formatter.result({
-  "duration": 202600,
+  "duration": 66100,
   "status": "passed"
 });
 formatter.match({
   "location": "AppStepdefs.login_Successfully()"
 });
 formatter.result({
-  "duration": 231000,
+  "duration": 332400,
   "status": "passed"
 });
 formatter.after({
-  "duration": 94600,
+  "duration": 67600,
   "status": "passed"
 });
 formatter.background({
   "line": 4,
-  "name": "Login Details simple asfsdf",
+  "name": "Login Details simple asfsdfzdffhsfhsfgfx",
   "description": "",
   "type": "background",
   "keyword": "Background"
@@ -113,7 +113,7 @@ formatter.match({
   "location": "AppStepdefs.precondition()"
 });
 formatter.result({
-  "duration": 454600,
+  "duration": 68000,
   "status": "passed"
 });
 formatter.scenario({
@@ -149,21 +149,21 @@ formatter.match({
   "location": "AppStepdefs.second_testcase()"
 });
 formatter.result({
-  "duration": 328700,
+  "duration": 167000,
   "status": "passed"
 });
 formatter.match({
   "location": "AppStepdefs.second_testcase_Enter_username_and_password()"
 });
 formatter.result({
-  "duration": 1687500,
+  "duration": 87200,
   "status": "passed"
 });
 formatter.match({
   "location": "AppStepdefs.should_Login_Successfully()"
 });
 formatter.result({
-  "duration": 360200,
+  "duration": 72600,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -232,12 +232,12 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 456800,
+  "duration": 210100,
   "status": "passed"
 });
 formatter.background({
   "line": 4,
-  "name": "Login Details simple asfsdf",
+  "name": "Login Details simple asfsdfzdffhsfhsfgfx",
   "description": "",
   "type": "background",
   "keyword": "Background"
@@ -251,7 +251,7 @@ formatter.match({
   "location": "AppStepdefs.precondition()"
 });
 formatter.result({
-  "duration": 337800,
+  "duration": 251200,
   "status": "passed"
 });
 formatter.scenario({
@@ -291,7 +291,7 @@ formatter.match({
   "location": "AppStepdefs.secondplace_testcase()"
 });
 formatter.result({
-  "duration": 29700,
+  "duration": 17600,
   "status": "passed"
 });
 formatter.match({
@@ -308,27 +308,27 @@ formatter.match({
   "location": "AppStepdefs.secondplace_testcases_Enter_user_and_pass(int,int)"
 });
 formatter.result({
-  "duration": 10185300,
+  "duration": 2229700,
   "status": "passed"
 });
 formatter.match({
   "location": "AppStepdefs.should_and_Login_Successfully()"
 });
 formatter.result({
-  "duration": 36700,
+  "duration": 32300,
   "status": "passed"
 });
 formatter.after({
-  "duration": 843200,
+  "duration": 57800,
   "status": "passed"
 });
 formatter.before({
-  "duration": 399000,
+  "duration": 110100,
   "status": "passed"
 });
 formatter.background({
   "line": 4,
-  "name": "Login Details simple asfsdf",
+  "name": "Login Details simple asfsdfzdffhsfhsfgfx",
   "description": "",
   "type": "background",
   "keyword": "Background"
@@ -342,7 +342,7 @@ formatter.match({
   "location": "AppStepdefs.precondition()"
 });
 formatter.result({
-  "duration": 388500,
+  "duration": 55800,
   "status": "passed"
 });
 formatter.scenario({
@@ -382,7 +382,7 @@ formatter.match({
   "location": "AppStepdefs.secondplace_testcase()"
 });
 formatter.result({
-  "duration": 542500,
+  "duration": 34400,
   "status": "passed"
 });
 formatter.match({
@@ -399,18 +399,18 @@ formatter.match({
   "location": "AppStepdefs.secondplace_testcases_Enter_user_and_pass(int,int)"
 });
 formatter.result({
-  "duration": 360200,
+  "duration": 284600,
   "status": "passed"
 });
 formatter.match({
   "location": "AppStepdefs.should_and_Login_Successfully()"
 });
 formatter.result({
-  "duration": 33900,
+  "duration": 19800,
   "status": "passed"
 });
 formatter.after({
-  "duration": 184300,
+  "duration": 60000,
   "status": "passed"
 });
 });
