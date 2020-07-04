@@ -1,4 +1,4 @@
-package stepDefinition;
+ package stepDefinition;
 
 
 
@@ -13,7 +13,7 @@ public class AppStepdefs {
 	@Before("@All")
 	public void m1()
 	{
-		System.out.println("Before same Stepdefinition");
+		System.out.println("Before same Stepdefinition123112341241243");
 	}
 	@After("@All")
 	public void m2()
