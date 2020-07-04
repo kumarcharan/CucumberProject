@@ -1,4 +1,4 @@
-Feature: Title of your feature
+Feature: Title of your feature12312341
   I want to use this template for my feature file
 
   Background: Login Details simple simple12345678xvdf
